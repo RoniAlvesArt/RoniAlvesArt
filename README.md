@@ -16,8 +16,6 @@
 - 👯 I’m looking to collaborate on new projets
 - 💬 Ask me about something you want to know
 - 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/ronisonalves/).
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 <!--
 **RoniAlvesArt/RoniAlvesArt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
