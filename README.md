@@ -10,8 +10,7 @@
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
 ### About me
--  I’m currently a Master’s student in Bioinformatics at UFMG
--  I’m currently learning Data Science and Bioinformatics
+-  I’m M.Sc. in Bioinformatics (UFMG)
+-  I’m improving my skills in Data Science and Bioinformatics
 -  I’m looking to collaborate on new projets
--  Ask me about something you want to know
 -  Reach me on [LinkedIn](https://www.linkedin.com/in/ronisonalves/).
