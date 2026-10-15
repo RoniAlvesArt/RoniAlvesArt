@@ -14,3 +14,20 @@
 -  I’m improving my skills in Data Science and Bioinformatics
 -  I’m looking to collaborate on new projets
 -  Reach me on [LinkedIn](https://www.linkedin.com/in/ronisonalves/).
+
+### Featured Projects
+
+#### [MemoCardio](https://memocardio.netlify.app/)
+A Flashcard app focused on long-term retention through spaced repetition. It uses the [FSRS](https://github.com/open-spaced-repetition/ts-fsrs) algorithm to adapt review intervals based on individual memory performance.
+
+Built with TypeScript, which I'm currently learning.
+
+[Live Demo](https://memocardio.netlify.app/)
+A pricing tool for IT professionals to calculate fair rates for their services, considering experience, project complexity, urgency, client ROI, and market conditions.
+
+Built with React.
+
+[Live Demo](https://quickquotesapp.netlify.app/)
+
+*Both projects are live demos. Their source code is currently private.*
+
