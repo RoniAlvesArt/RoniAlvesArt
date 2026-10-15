@@ -1,6 +1,7 @@
   ## Hello, guys 👋
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/typescript-20232A?style=for-the-badge&logo=typescript&logoColor=61DAFB)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
@@ -15,19 +16,62 @@
 -  I’m looking to collaborate on new projets
 -  Reach me on [LinkedIn](https://www.linkedin.com/in/ronisonalves/).
 
-### Featured Projects
+## 🧑🏻‍💻 Featured Projects
 
-#### [MemoCardio](https://memocardio.netlify.app/)
-A Flashcard app focused on long-term retention through spaced repetition. It uses the [FSRS](https://github.com/open-spaced-repetition/ts-fsrs) algorithm to adapt review intervals based on individual memory performance.
+<table>
+<tr>
+<td width="50%" valign="top">
 
-Built with TypeScript, which I'm currently learning.
+<h3 align="left">🧠 MemoCardio</h3>
 
-[Live Demo](https://memocardio.netlify.app/)
-A pricing tool for IT professionals to calculate fair rates for their services, considering experience, project complexity, urgency, client ROI, and market conditions.
+<p align="left">
+  <em>Remember more. Review smarter.</em>
+</p>
 
-Built with React.
+A lightweight flashcard app designed for long-term retention. Powered by the [**FSRS algorithm**](https://github.com/open-spaced-repetition/ts-fsrs), it adapts review intervals to memory stability, helping make studying more efficient.
 
-[Live Demo](https://quickquotesapp.netlify.app/)
+<p align="left">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/Netlify-Deployed-00C7B7?style=flat-square&logo=netlify&logoColor=white" alt="Netlify"/>
+</p>
 
-*Both projects are live demos. Their source code is currently private.*
+<p align="left">
+  <a href="https://memocardio.netlify.app/">
+    <img src="https://img.shields.io/badge/TRY_MEMOCARDIO-5865F2?style=for-the-badge&logoColor=white" alt="Try MemoCardio"/>
+  </a>
+</p>
 
+</td>
+<td width="50%" valign="top">
+
+<h3 align="left">💻 QuickQuotes</h3>
+
+<p align="left">
+  <em>Price your work with confidence.</em>
+</p>
+
+A pricing system for IT professionals to calculate fair rates for their services. It considers experience, project complexity, urgency, client ROI, costs, and market conditions to suggest a competitive price range.
+
+Generate PDF quotes and save calculations for later.
+
+<p align="left">
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/Netlify-Deployed-00C7B7?style=flat-square&logo=netlify&logoColor=white" alt="Netlify"/>
+</p>
+
+<p align="left">
+  <a href="https://quickquotesapp.netlify.app/">
+    <img src="https://img.shields.io/badge/TRY_QUICKQUOTES-2E8B57?style=for-the-badge&logoColor=white" alt="Try QuickQuotes"/>
+  </a>
+</p>
+
+</td>
+</tr>
+</table>
+
+---
+
+<p align="left">
+  <strong>Give them a try and let me know what you think!</strong>
+</p>
