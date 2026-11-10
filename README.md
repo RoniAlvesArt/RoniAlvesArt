@@ -22,7 +22,7 @@
 <tr>
 <td width="50%" valign="top">
 
-<h3 align="left">🧠 MemoCardio</h3>
+<h3 align="left">🧠 MemoCard</h3>
 
 <p align="left">
   <em>Remember more. Review smarter.</em>
